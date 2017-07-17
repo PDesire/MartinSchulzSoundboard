@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Martins Best of";
+                    return "Martins Best of all";
                 case 1:
                     return "Martin rasiert";
                 case 2:
