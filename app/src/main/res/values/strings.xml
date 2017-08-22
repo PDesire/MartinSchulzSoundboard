@@ -2,4 +2,7 @@
     <string name="app_name">Martin Schulz Soundboard</string>
     <string name="action_settings">Einstellungen</string>
     <string name="section_format">! Gudde das ist der Master of the Test: %1$d</string>
+    <string name="best_of_all">Martins Best of all</string>
+    <string name="martin_rasiert">Martin rasiert</string>
+    <string name="return_of_schulz">The return of the Schulz</string>
 </resources>
